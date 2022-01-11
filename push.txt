@@ -1,0 +1,2 @@
+docker tag streamlit-ml ongchinhee/streamlit-ml
+docker push ongchinhee/streamlit-ml
